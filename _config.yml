@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Sushil Kumar </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sushilprajapati/">LinkedIn</a> |
+  <a href="https://github.com/sushilprj">GitHub</a>
+  
+  <br>   
+  Sushil has extensive experience working with start-ups and being part of the middle to large organizations. In addition, he has more than 16 years of experience with various tools and technology stacks. His expertise includes application infrastructure, design/architecture applications or features, team management, and hands-on programming/best practices skills.
+
+  Sushil supports product growth regarding scalability, reliability, resiliency, and technology enrichment. In addition, he works on new initiatives, R&D, and feature POC to support the engineering team and engage in team growth.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
